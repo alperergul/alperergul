@@ -1,7 +1,17 @@
-### Hi there 🚀
+![](https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png)
 
-I'm Alper from Turkey. I'm really enjoy learning new things in languages and frameworks like Python 🐍, JavaScript 💻, Angular 🅰... 
+I'm Alper from Turkey. I'm really enjoy learning new things in languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
+
+Skills: PYTHON / ANGULAR / JS / HTML / CSS / VS CODE / ADOBE XD
+
+- 🌱 I’m currently learning JavaScript 
+- 💬 Ask me about Python 
+- 📫 How to reach me: alper.ergul.97@gmail.com 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperergul)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alperergul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alperergul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alpeerergul/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperergul)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alperergul)  
 
