@@ -2,7 +2,7 @@
 
 I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
 
-Skills: PYTHON / ANGULAR / TYPESCRİPT / JS / HTML / CSS / VS CODE / ADOBE XD
+Skills: PYTHON / ANGULAR / TYPESCRIPT / JS / HTML / CSS / VS CODE / ADOBE XD
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Python 
