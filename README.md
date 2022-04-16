@@ -8,7 +8,9 @@ Skills: PYTHON / ANGULAR / TYPESCRIPT  / JS / HTML / CSS / SASS / VS CODE / ADOB
 - 💬 Ask me about Python 
 - 📫 How to reach me: alper.ergul.97@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperergul&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alperergul&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperergul&layout=compact&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alperergul&theme=vue)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alperergul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alperergul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alpeerergul/)  
 
