@@ -13,3 +13,5 @@ Skills: PYTHON / ANGULAR / TYPESCRIPT  / JS / HTML / CSS / SASS / VS CODE / ADOB
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperergul)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperergul&hide=contribs,prs)
