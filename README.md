@@ -1,6 +1,6 @@
 
-![](https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png =250x)
-
+![](https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png)
+<img align="left" width="100" height="100" src="https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png">
 
 I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
 
