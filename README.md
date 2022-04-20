@@ -1,6 +1,8 @@
 
 ![](https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png)
 
+![](https://images.unsplash.com/photo-1556244573-c3686c0f0e78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80)
+
 ### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
 
 ## 🤸‍♂️ Skills: 
