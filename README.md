@@ -2,7 +2,7 @@
 
 I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
 
-Skills: 
+## 🤸‍♂️ Skills: 
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -16,7 +16,7 @@ Skills:
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-Frameworks and Libraries:
+## 📚 Frameworks and Libraries:
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -26,7 +26,7 @@ Frameworks and Libraries:
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-Tools:
+## 🧰 Tools:
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -34,7 +34,7 @@ Tools:
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </p>
 
-Databases:
+## 📦 Databases:
 
 <p>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
