@@ -1,6 +1,6 @@
 
 ![](https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png)
-<img align="center" width="700" height="200" src="https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png">
+<img align="middle" width="700" height="200" src="https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png">
 
 I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
 
