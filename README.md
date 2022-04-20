@@ -17,6 +17,8 @@ I'm Alper from Turkey. I really enjoy learning new things in programing language
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperergul&layout=compact)](https://github.com/alperergul)
+
 ## 📚 Frameworks and Libraries:
 
 <p>
@@ -41,9 +43,6 @@ I'm Alper from Turkey. I really enjoy learning new things in programing language
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperergul&layout=compact)](https://github.com/alperergul)
-
 ## 💬 Contact me: 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/alperergul)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/alperergul/)
