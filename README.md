@@ -50,7 +50,9 @@
 
 
 ---
+<p align="center">✉ alper.ergul.97@gmail.com</p>
 <p align="center"> © 2022 Alper Ergül </p>
+
 
 
 
