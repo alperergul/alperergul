@@ -1,6 +1,6 @@
 ![](https://cdn.discordapp.com/attachments/566781940389117963/914497342609170462/banner.png)
 
-###   Hi, I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 JavaScript, 🅰 Angular...
+###   Hi, I'm Alper from Turkey. I really enjoy learning new things in programing languages and frameworks like 🐍 Python, 💻 TypeScript, 🅰 Angular...
 
 ## 🤸‍♂️ Skills: 
 
