@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
-<p align="center">🔭 I’m currently working on <b>Machine Learning, Data Science<b> </p>
+<p align="center">🔭 I’m currently working on <b>Machine Learning, Data Science</b> </p>
 <p align="center">🌱 I’m currently learning **Machine Learning, Data Science**</p>
 <p align="center">💬 Ask me about **frontend skills**</p>
 <p align="center">📫 How to reach me **alper.ergul.97@gmail.com**</p>
