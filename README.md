@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
 
-<p align="center">🔭 I’m currently working on Machine Learning, Data Science </p>
+<p align="center">🔭 I’m currently working on <strong>Machine Learning, Data Science</strong> </p>
 <p align="center">🌱 I’m currently learning **Machine Learning, Data Science**</p>
 <p align="center">💬 Ask me about **frontend skills**</p>
 <p align="center">📫 How to reach me **alper.ergul.97@gmail.com**</p>
