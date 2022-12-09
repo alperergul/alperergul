@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperergul" alt="alperergul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 
 <p align="center">
 🔭 I’m currently working on **Machine Learning, Data Science** </p>
