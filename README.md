@@ -3,9 +3,9 @@
 
 
 <p align="center">🔭 I’m currently working on <strong>Machine Learning, Data Science</strong> </p>
-<p align="center">🌱 I’m currently learning **Machine Learning, Data Science**</p>
-<p align="center">💬 Ask me about **frontend skills**</p>
-<p align="center">📫 How to reach me **alper.ergul.97@gmail.com**</p>
+<p align="center">🌱 I’m currently learning <strong>Machine Learning, Data Science</strong></p>
+<p align="center">💬 Ask me about <strong>frontend skills</strong></p>
+<p align="center">📫 How to reach me <strong>alper.ergul.97@gmail.com</strong></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
