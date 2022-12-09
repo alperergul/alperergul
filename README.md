@@ -4,13 +4,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperergul" alt="alperergul" /></a> </p>
 
 <p align="center">
-- 🔭 I’m currently working on **Machine Learning, Data Science**
-
-- 🌱 I’m currently learning **Machine Learning, Data Science**
-
-- 💬 Ask me about **frontend skills**
-
-- 📫 How to reach me **alper.ergul.97@gmail.com**
+🔭 I’m currently working on **Machine Learning, Data Science**
+🌱 I’m currently learning **Machine Learning, Data Science**
+💬 Ask me about **frontend skills**
+📫 How to reach me **alper.ergul.97@gmail.com**
 </p>
 
 
