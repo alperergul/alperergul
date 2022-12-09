@@ -21,9 +21,9 @@
 
 
 <div>
-<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperergul&show_icons=true&locale=en" alt="alperergul" /></p>
+<p align="left" >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alperergul&show_icons=true&locale=en" alt="alperergul" /></p>
 
-<p align="right" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperergul&" alt="alperergul" /></p>
+<p align="right" ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alperergul&" alt="alperergul" /></p>
 </div>
 
 
