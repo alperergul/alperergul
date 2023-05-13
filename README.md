@@ -1,3 +1,9 @@
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/alperergul/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=88937416)
+
+
 <h1 align="center">Hi 👋, I'm Alper</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
@@ -7,7 +13,3 @@
     <img src="https://komarev.com/ghpvc/?username=alperergul&style=for-the-badge">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/alperergul/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?user_id=88937416)
