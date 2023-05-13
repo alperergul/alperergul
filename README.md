@@ -3,8 +3,8 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperergul&" alt="alperergul" /></p>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+<a href="https://github.com/alperergul/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=alperergul&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
